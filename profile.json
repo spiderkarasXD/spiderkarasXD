@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "login": "spiderkarasXD",
+  "seed": "#040704",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "stats",
+    "streak",
+    "buttons",
+    "wave",
+    "projects"
+  ],
+  "hidden": [
+    "projects"
+  ],
+  "hero": {
+    "greeting": "Hi, i'm ",
+    "name": "spiderkaras",
+    "subtitle": "i'm vibecoding some funny shit",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Moon, Russia"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer "
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:supabase",
+            "label": "supabases"
+          },
+          {
+            "icon": "brand:cloudflare",
+            "label": "cloudflare"
+          },
+          {
+            "icon": "brand:github",
+            "label": "github pages"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/@badtexting"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://spiderkaras.fun",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/spiderkarasXD?tab=repositories",
+        "style": "tonal"
+      }
+    ],
+    "card": true
+  }
+}
