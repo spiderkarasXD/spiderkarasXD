@@ -1,21 +1,25 @@
 {
- "key": "b6d9841c",
+ "key": "4f25c52b",
  "stars": 7,
- "contributions": 211,
+ "contributions": 216,
  "repos": 9,
  "followers": 3,
  "languages": [
   [
    "JavaScript",
-   893843
+   949859
   ],
   [
    "HTML",
-   570058
+   575749
   ],
   [
    "CSS",
-   253329
+   278835
+  ],
+  [
+   "Kotlin",
+   96416
   ],
   [
    "Python",
@@ -28,10 +32,6 @@
   [
    "PLpgSQL",
    7772
-  ],
-  [
-   "C#",
-   3950
   ]
  ],
  "days": [
@@ -113,9 +113,13 @@
    {
     "c": 0,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -124,7 +128,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 1,
   "longest": 7
  },
  "pins": [
