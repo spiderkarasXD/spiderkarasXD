@@ -1,21 +1,21 @@
 {
- "key": "1dd4f51c",
+ "key": "9e6f3a14",
  "stars": 7,
- "contributions": 257,
+ "contributions": 258,
  "repos": 10,
  "followers": 3,
  "languages": [
   [
-   "JavaScript",
-   1119117
+   "HTML",
+   2296345
   ],
   [
-   "HTML",
-   612752
+   "JavaScript",
+   1154259
   ],
   [
    "CSS",
-   329495
+   353597
   ],
   [
    "Java",
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -128,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 7
  },
  "pins": [
@@ -138,7 +142,7 @@
    "text": "",
    "fork": false,
    "stars": 3,
-   "language": "JavaScript",
+   "language": "HTML",
    "topics": []
   },
   {
@@ -169,7 +173,7 @@
    "text": "",
    "fork": false,
    "stars": 3,
-   "language": "JavaScript",
+   "language": "HTML",
    "topics": []
   },
   {
